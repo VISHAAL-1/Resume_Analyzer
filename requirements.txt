@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+pydantic
+PyMuPDF
+docx2txt
+spacy
+sentence-transformers
+openai
+numpy
+rapidfuzz
+streamlit
+requests
+python-dotenv
